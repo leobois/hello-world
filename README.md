@@ -1,2 +1,5 @@
 # hello-world
-Test repository to discover Github
+
+Hi,
+
+I'm a student at Strasbourg trying Github for the first time.
